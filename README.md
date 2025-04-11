@@ -5,7 +5,7 @@ Hi! If you’re a fellow data enthusiast, an aspiring data scientist, or just cu
 ### Data Analytics: 
 As a data analyst, I know how to find valuable insights from the data to help companies do more. 
 
-![data warehouse visual b](https://github.com/user-attachments/assets/0fd04908-2818-426a-bf2e-a294e10860cc)
+![Analytics Workflow Diagram_vector style](https://github.com/user-attachments/assets/4524e611-1b05-4c70-91bd-82c8008e5a9d)
 
 
 
