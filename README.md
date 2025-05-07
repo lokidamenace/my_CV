@@ -1,7 +1,3 @@
-## About Me
-
-Hi! If you’re a fellow data enthusiast, an aspiring data scientist, or just curious about how data can drive decision-making, I invite you to explore my work. Let’s dive into the numbers together!
-
 ### Data Analytics: 
 As a data analyst, I uncover valuable insights from data to help companies do more. 
 
